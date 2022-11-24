@@ -1,0 +1,15 @@
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\bin\Debug\net6.0\InheritanceVSPolymorphism.exe
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\bin\Debug\net6.0\InheritanceVSPolymorphism.deps.json
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\bin\Debug\net6.0\InheritanceVSPolymorphism.runtimeconfig.json
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\bin\Debug\net6.0\InheritanceVSPolymorphism.dll
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\bin\Debug\net6.0\InheritanceVSPolymorphism.pdb
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.csproj.AssemblyReference.cache
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.AssemblyInfoInputs.cache
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.AssemblyInfo.cs
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.dll
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\refint\InheritanceVSPolymorphism.dll
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.pdb
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\InheritanceVSPolymorphism.genruntimeconfig.cache
+C:\Users\admin\RiderProjects\D06K12C-\InheritanceVSPolymorphism\InheritanceVSPolymorphism\obj\Debug\net6.0\ref\InheritanceVSPolymorphism.dll
