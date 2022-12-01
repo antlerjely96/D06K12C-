@@ -16,11 +16,7 @@ namespace tinhTongHieuTichThuong
         {
             InitializeComponent();
         }
-
-        private void soA_TextChanged(object sender, EventArgs e)
-        {
-            throw new System.NotImplementedException();
-        }
+        
 
         private void tinh_Click(object sender, EventArgs e)
         {
